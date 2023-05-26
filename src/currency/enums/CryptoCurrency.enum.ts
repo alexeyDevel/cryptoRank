@@ -1,0 +1,23 @@
+enum CryptoCurrency {
+  BTC = 'BTC',
+  USDT = 'USDT',
+  BNB = 'BNB',
+  USDC = 'USDC',
+  XRP = 'XRP',
+  ADA = 'ADA',
+  STETH = 'STETH',
+  DOGE = 'DOGE',
+  MATIC = 'MATIC',
+  SOL = 'SOL',
+  TRX = 'TRX',
+  LTC = 'LTC',
+  DOT = 'DOT',
+  BUSD = 'BUSD',
+  SHIB = 'SHIB',
+  AVAX = 'AVAX',
+  DAI = 'DAI',
+  WBTC = 'WBTC',
+  UNI = 'UNI',
+  LINK = 'LINK',
+}
+export default CryptoCurrency;
